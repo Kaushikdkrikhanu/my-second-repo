@@ -8,4 +8,7 @@ Using local workflow is simple:
 *	Modify your project
 *	Add the files to the staging area
 *	Commit your changes
+zxc  '
+zcasc
+*gs
 
